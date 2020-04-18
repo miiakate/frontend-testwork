@@ -6,7 +6,7 @@
 - Add Events page - страница для добавления event
 
 ## Прототип
-Дизайн и цвет на свой вкус, структура из Figma https://www.figma.com/file/L6FANUGVjmQ8wX0Yjj5dpv/Test-work?node-id=0%3A1
+Дизайн и цвет на свой вкус, структура из [**Figma**](https://www.figma.com/file/L6FANUGVjmQ8wX0Yjj5dpv/Test-work?node-id=0%3A1) 
 
 ## Требования
 - [**Angular Style Guide**](https://angular.io/guide/styleguide)
