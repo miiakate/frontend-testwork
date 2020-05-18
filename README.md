@@ -17,4 +17,5 @@ UI на выбор,cтруктура из [**Figma**](https://www.figma.com/file
 - для Http запросов - отдельный EventsService,
 - для связки с NgRx Store используем NgRx Effects
 
-
+## Срок
+- 1 день
