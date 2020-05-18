@@ -12,7 +12,7 @@ UI на выбор,cтруктура из [**Figma**](https://www.figma.com/file
 - Данные сущностей хранятся в NgRx Store (events) в отдельном модуле (Feature module)
 - События между компонентами передаются асинхронно
 - Для формы - Reactive Forms
-- Unit tests, ng test --codeCoverage > ~25
+- Unit tests, ng test --codeCoverage (~25%)
 - Стили SCSS
 - для Http запросов - отдельный EventsService,
 - для связки с NgRx Store используем NgRx Effects
