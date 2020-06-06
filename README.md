@@ -1,6 +1,6 @@
 # Frontend Testwork
 
-##The task
+## The task
 Pages:
 
 - Home page - homepage with events
@@ -8,9 +8,9 @@ Pages:
 
 ## Prototype
 
-UI to choose, structure from Figma
+UI to choose, structure from [**Figma**](https://www.figma.com/file/L6FANUGVjmQ8wX0Yjj5dpv/Test-work?node-id=0%3A1) 
 
-##Requirements
+## Requirements
 
 Entity data is stored in the NgRx Store (events) in a separate module (Feature module)
 Events between components are dispatched asynchronously
@@ -23,6 +23,7 @@ for endpoints - in-memory-web-api
 
 ## Term
 1 day
+
 
 ## Задание
 Страницы:
