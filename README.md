@@ -12,14 +12,14 @@ UI to choose, structure from [**Figma**](https://www.figma.com/file/L6FANUGVjmQ8
 
 ## Requirements
 
-Entity data is stored in the NgRx Store (events) in a separate module (Feature module)
-Events between components are dispatched asynchronously
-For a form - Reactive Forms
-Unit tests, ng test --codeCoverage (~ 25%)
-SCSS Styles
-for Http requests - a separate EventsService,
-for bundling with NgRx Store we use NgRx Effects
-for endpoints - in-memory-web-api
+- Entity data is stored in the NgRx Store (events) in a separate module (Feature module)
+- Events between components are dispatched asynchronously
+- For a form - Reactive Forms
+- Unit tests, ng test --codeCoverage (~ 25%)
+- SCSS Styles
+- for Http requests - a separate EventsService,
+- for bundling with NgRx Store we use NgRx Effects
+- for endpoints - in-memory-web-api
 
 ## Term
 1 day
