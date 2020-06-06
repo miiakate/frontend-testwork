@@ -1,5 +1,29 @@
 # Frontend Testwork
 
+##The task
+Pages:
+
+- Home page - homepage with events
+- Add Events page - page for adding event
+
+## Prototype
+
+UI to choose, structure from Figma
+
+##Requirements
+
+Entity data is stored in the NgRx Store (events) in a separate module (Feature module)
+Events between components are dispatched asynchronously
+For a form - Reactive Forms
+Unit tests, ng test --codeCoverage (~ 25%)
+SCSS Styles
+for Http requests - a separate EventsService,
+for bundling with NgRx Store we use NgRx Effects
+for endpoints - in-memory-web-api
+
+## Term
+1 day
+
 ## Задание
 Страницы:
 - Home page - домашняя страница с events
